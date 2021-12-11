@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kazan2019</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="dept">
+        <item>Dept 1</item>
+        <item>Dept 2</item>
+        <item>Dept 3</item>
+        <item>Dept 4</item>
+        <item>Dept 5</item>
+    </string-array>
+    <string-array name="asset">
+        <item>Asset 1</item>
+        <item>Asset 2</item>
+        <item>Asset 3</item>
+        <item>Asset 4</item>
+        <item>Asset 5</item>
+    </string-array>
+</resources>
